@@ -1,5 +1,5 @@
 # Project_05
-<h1 align="center">🎙️ Millow: Your Modular AI Voice Assistant</h1>
+<h1 align="center">🎙️ Millow: AI Voice Assistant</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11+-blue.svg" />
@@ -24,7 +24,6 @@
 | 🧠 AI Powered | Integrates ChatGPT (`gpt-3.5-turbo`) to answer complex queries |
 | 📰 News Updates | Real-time news fetching using NewsAPI |
 | 🎯 Modular Design | Each feature is class-based and independently upgradable |
-| 🪄 Resume Ready | Perfect for showcasing Python, AI, voice interfaces & API skills |
 
 ---
 
